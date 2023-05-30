@@ -1,2 +1,2 @@
 # portafolio
-<a href="https://github.com/pepitouchiha/portafolio">Visualiza mi repositorio</a>
+<a href="https://pepitouchiha.github.io/portafolio/">Visualiza mi repositorio</a>
